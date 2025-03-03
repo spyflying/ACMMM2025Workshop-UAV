@@ -148,7 +148,7 @@ Please check https://acmmm2025.org/
 @inproceedings{zheng2025UVA,
   title={The 3rd Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
   author={Wang, Tingyu and Shi, Yujiao and Deuser, Fabian and Huang, Shaofei and Hu, Guosheng and Liu, Si and Zheng, Zhedong and Zimmermann, Roger},
-  booktitle={Proceedings of the 33nd ACM International Conference on Multimedia Workshop},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia Workshop},
   year={2025}
 }  
 ```

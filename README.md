@@ -108,7 +108,7 @@ Page limits include diagrams and appendices. Submissions should be single-blind,
 
 This year’s focus is specifically on matching partial street images to corresponding satellite images (illustrated in Figure 3). By concentrating on partial views, our aim is to more accurately reflect real-world scenarios where obstructions or limited sensor angles may restrict the field of view, such as during low-altitude UAV operations for navigation, search-and-rescue missions, and autonomous flight. We harness University-1652 [40] as the challenge dataset, which provides 2,579 street images as query and 951 gallery satellite images. To encourage broader participation and innovation, we will make University-1652 training set available through our website with name-masked test set, along with a public leaderboard. 
 
-Check challenge details at Section 5 in [https://zdzheng.xyz/files/MM24_Workshop_Proposal_Drone.pdf](https://zdzheng.xyz/files/MM24_Workshop_Proposal_Drone.pdf)
+Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/proposal.pdf)
 
 The challenge dataset contains two part.
 1. The basic dataset (training set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 

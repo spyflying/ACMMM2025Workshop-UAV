@@ -30,17 +30,11 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 ## Workshop Schedule
 
-TBD
+**TBD**
 
 ## Invited Speakers
 
-| <img src="https://www.cs.ucf.edu/wp-content/uploads/2022/04/Mubarak-Shah713edit-scaled.jpg" width="160"> |<img src="https://www.comp.nus.edu.sg/~sochr/www/stfphotos/leegh.jpg" width="160"> | 
-| :-: | :-: |
-|  [Mubarak Shah](https://www.cs.ucf.edu/person/mubarak-shah/), University of Central Florida | [Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/), National University of Singapore | 
-
-**Talk: Geometry-guided street-view panorama synthesis** ([Mubarak Shah](https://www.cs.ucf.edu/person/mubarak-shah/))
-
-**Talk：Revisiting Near/Remote Sensing with Geospatial Attention** ([Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/))
+**TBD**
 
 ## Important Dates
 
@@ -153,7 +147,7 @@ Please check https://acmmm2025.org/
 ```bibtex
 @inproceedings{zheng2025UVA,
   title={The 3rd Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
-  author={Wang, Tingyu and Shi, Yujiao and Deuser, Fabian and Huang, Shaofei and Hu, Guosheng and Liu, Si and Zimmermann, Roger},
+  author={Wang, Tingyu and Shi, Yujiao and Deuser, Fabian and Huang, Shaofei and Hu, Guosheng and Liu, Si and Zheng, Zhedong and Zimmermann, Roger},
   booktitle={Proceedings of the 33nd ACM International Conference on Multimedia Workshop},
   year={2025}
 }  

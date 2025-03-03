@@ -28,7 +28,7 @@ author_profile: false
 
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
-## Workshop Schedule (GMT+11, 1/11/2024) 
+## Workshop Schedule
 
 TBD
 

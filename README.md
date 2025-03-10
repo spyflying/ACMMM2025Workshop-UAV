@@ -31,7 +31,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 ## News
 
 * 9/3/2025 - Workshop homepage is now available.
-* 9/3/2025 - Challenge Open.
+* 9/3/2025 - Challenge Open-website: ([https://codalab.lisn.upsaclay.fr/competitions/22065](https://codalab.lisn.upsaclay.fr/competitions/22065))
 
 ## Workshop Schedule
 

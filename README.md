@@ -108,7 +108,7 @@ The dataset can be download by [Request](https://github.com/layumi/University165
 
 The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.zip). Please zip it as “answer.zip” to submit the result, and it is crucial to name the file exactly as answer.txt within the zip, as otherwise the evaluation will fail.
 
-Please return the top-10 satellite names. For example, the first query is ''VdthudbGjJ4aaNkl.jpeg''. Therefore, the first line of returned result in /''answer.txt'' should be the format as follows from Rank-1 to Rank-10:
+Please return the top-10 satellite names. For example, the first query is “VdthudbGjJ4aaNkl.jpeg”. Therefore, the first line of returned result in “answer.txt” should be the format as follows from Rank-1 to Rank-10:
 
 ```
 ptHYAN3piG3YwOft       I9bzP8jnLlz9zpMi	      c3vVTLCzTAVzuapU       gkriPL4PNtcWoHgg       iIL2ASdQ5vrFsJs0       TinwNxUGYAzz0kTO      XilyyHqywhUBxHfT       WLasj720MnF13zPI       Qz4NypYGPhHdiAvn       gO2hUfIHC8N4ZWKz

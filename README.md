@@ -98,7 +98,7 @@ Page limits include diagrams and appendices. Submissions should be single-blind,
 
 ## Challenge
 
-**Challenge Platform is at https://codalab.lisn.upsaclay.fr/competitions/18770 .**
+**Challenge Platform is at [https://codalab.lisn.upsaclay.fr/competitions/22056](https://codalab.lisn.upsaclay.fr/competitions/22056).**
 
 This year’s focus is specifically on matching partial street images to corresponding satellite images (illustrated in Figure 3). By concentrating on partial views, our aim is to more accurately reflect real-world scenarios where obstructions or limited sensor angles may restrict the field of view, such as during low-altitude UAV operations for navigation, search-and-rescue missions, and autonomous flight. We harness University-1652 [40] as the challenge dataset, which provides 2,579 street images as query and 951 gallery satellite images. To encourage broader participation and innovation, we will make University-1652 training set available through our website with name-masked test set, along with a public leaderboard. 
 
@@ -110,13 +110,13 @@ The challenge dataset contains two part.
 2. The name-masked test-160k-WX dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EoP7u9rymIxMrv_s3Im-vvQBX8PQ_4v1xzXolMfyKmINkw?e=N8vpum).
 Since only drone will meet weather conditions, we only simulate weather on drone-view queries. 
 
-The submission example can be found at [Baseline Submission](https://github.com/wtyhub/ACMMM2024Workshop/blob/main/answer.txt). Please zip it as `answer.zip` to submit the result.
+The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.txt). Please zip it as `answer.zip` to submit the result.
 
 Please return the top-10 satellite names. For example, the first query is `Q3JI2tUwDkhcfip.jpeg`. Therefore, the first line of returned result in `answer.txt` should be the format as follows:
 ```
 e6kXgz36E8nOY2n       ioqKwvSIYYhiW2v       y4VmQPUYOMD8AH4       kpZ2QJlNBHMnbRA       xffJQs2n9DP17fg       IejrFHLQYBfce2y       cH79t5WJMEMZ3VA       W9u0j4N1nlFbI97       zDurtAW4FTJfNJ3       MuvIMNVdofmaRqG
 ```
-Please return the result following the order of query at [Query TXT](https://github.com/wtyhub/ACMMM2024Workshop/blob/main/query_drone_name.txt)
+Please return the result following the order of query at [Query TXT](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/query_street_name.txt)
 It will be 37855 lines.
 
 ## Related Papers 

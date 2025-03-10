@@ -98,26 +98,23 @@ Page limits include diagrams and appendices. Submissions should be single-blind,
 
 ## Challenge
 
-**Challenge Platform is at [https://codalab.lisn.upsaclay.fr/competitions/22056](https://codalab.lisn.upsaclay.fr/competitions/22056).**
+**Challenge Platform is at [https://codalab.lisn.upsaclay.fr/competitions/22065](https://codalab.lisn.upsaclay.fr/competitions/22065).**
 
 This year’s focus is specifically on matching partial street images to corresponding satellite images (illustrated in Figure 3). By concentrating on partial views, our aim is to more accurately reflect real-world scenarios where obstructions or limited sensor angles may restrict the field of view, such as during low-altitude UAV operations for navigation, search-and-rescue missions, and autonomous flight. We harness University-1652 [40] as the challenge dataset, which provides 2,579 street images as query and 951 gallery satellite images. To encourage broader participation and innovation, we will make University-1652 training set available through our website with name-masked test set, along with a public leaderboard. 
 
 Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/proposal.pdf)
 
-The challenge dataset contains two part.
-1. The basic dataset (training set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
+The dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes.
 
-2. The name-masked test-160k-WX dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EoP7u9rymIxMrv_s3Im-vvQBX8PQ_4v1xzXolMfyKmINkw?e=N8vpum).
-Since only drone will meet weather conditions, we only simulate weather on drone-view queries. 
+The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.zip). Please zip it as “answer.zip” to submit the result, and it is crucial to name the file exactly as answer.txt within the zip, as otherwise the evaluation will fail.
 
-The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.txt). Please zip it as `answer.zip` to submit the result.
+Please return the top-10 satellite names. For example, the first query is ``VdthudbGjJ4aaNkl.jpeg''. Therefore, the first line of returned result in ``answer.txt'' should be the format as follows from Rank-1 to Rank-10:
 
-Please return the top-10 satellite names. For example, the first query is `Q3JI2tUwDkhcfip.jpeg`. Therefore, the first line of returned result in `answer.txt` should be the format as follows:
 ```
-e6kXgz36E8nOY2n       ioqKwvSIYYhiW2v       y4VmQPUYOMD8AH4       kpZ2QJlNBHMnbRA       xffJQs2n9DP17fg       IejrFHLQYBfce2y       cH79t5WJMEMZ3VA       W9u0j4N1nlFbI97       zDurtAW4FTJfNJ3       MuvIMNVdofmaRqG
+ptHYAN3piG3YwOft       I9bzP8jnLlz9zpMi	      c3vVTLCzTAVzuapU       gkriPL4PNtcWoHgg       iIL2ASdQ5vrFsJs0       TinwNxUGYAzz0kTO      XilyyHqywhUBxHfT       WLasj720MnF13zPI       Qz4NypYGPhHdiAvn       gO2hUfIHC8N4ZWKz
 ```
-Please return the result following the order of query at [Query TXT](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/query_street_name.txt)
-It will be 37855 lines.
+
+Please return the result following the order of query at [Query TXT](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/query_street_name.txt). It will be 2759 lines.
 
 ## Related Papers 
 - Wang, T., Zheng, Z., Sun, Y., Yan, C., Yang, Y., & Chua, T. S. (2024). [Multiple-environment Self-adaptive Network for Aerial-view Geo-localization](https://zdzheng.xyz/files/PR2024-Wang.pdf). Pattern Recognition, 152, 110363.

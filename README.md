@@ -43,9 +43,13 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 ## Important Dates
 
-**Submission of papers:**
+**Challenge**
+
 * Challenge Start: 9 March 2025
 * Challenge End: 30 June 2025
+
+**Submission of papers:**
+
 * Workshop Papers Submission End: 7 July 2025 
 * Workshop Papers Notification: 24 July 2025 
 * Student Travel Grants Application Deadline: TBD 

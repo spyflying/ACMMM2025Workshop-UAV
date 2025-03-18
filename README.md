@@ -32,7 +32,8 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 * 9/3/2025 - Workshop homepage is now available.
 * 9/3/2025 - Challenge Open-website: ([https://codalab.lisn.upsaclay.fr/competitions/22073](https://codalab.lisn.upsaclay.fr/competitions/22073))
-* 11/3/2024 - Paper submission site is now available.
+* 11/3/2025 - Paper submission site is now available.
+* 18/3/2025 - CFP is released.
 
 ## Workshop Schedule
 
@@ -116,7 +117,7 @@ This year’s focus is specifically on matching partial street images to corresp
 
 Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/proposal.pdf)
 
-The dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes.
+The dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. The name-masked test set (query_street & gallery_satellite) can be downloaded from [OneDrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/Esu6JIlwuBtAnr5VAEFaPzEBM1VjH6WVzWiWJjH0vLW4TQ?e=9JscAg).
 
 The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.zip). Please zip it as “answer.zip” to submit the result, and it is crucial to name the file exactly as answer.txt within the zip, as otherwise the evaluation will fail.
 

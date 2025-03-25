@@ -117,7 +117,7 @@ This year’s focus is specifically on matching partial street images to corresp
 
 Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/proposal.pdf)
 
-The training dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. The name-masked test set (query_street & gallery_satellite) can be downloaded from [OneDrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/Esu6JIlwuBtAnr5VAEFaPzEBM1VjH6WVzWiWJjH0vLW4TQ?e=9JscAg).
+The training dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. The name-masked test set (query_street & gallery_satellite) can be downloaded from [OneDrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/Esu6JIlwuBtAnr5VAEFaPzEBM1VjH6WVzWiWJjH0vLW4TQ?e=9JscAg). **Please do not use the University-1652 test set for training.**
 
 The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.zip). Please zip it as “answer.zip” to submit the result, and it is crucial to name the file exactly as answer.txt within the zip, as otherwise the evaluation will fail.
 

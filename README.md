@@ -117,7 +117,7 @@ This year’s focus is specifically on matching partial street images to corresp
 
 Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/proposal.pdf)
 
-The training dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. The name-masked test set (query_street & gallery_satellite) can be downloaded from [OneDrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/Esu6JIlwuBtAnr5VAEFaPzEBM1VjH6WVzWiWJjH0vLW4TQ?e=9JscAg). **Please do not use the University-1652 test set for training.**
+The training dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. The name-masked test set (query_street & gallery_satellite) can be downloaded from [OneDrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/Esu6JIlwuBtAnr5VAEFaPzEBM1VjH6WVzWiWJjH0vLW4TQ?e=9JscAg).
 
 The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.zip). Please zip it as “answer.zip” to submit the result, and it is crucial to name the file exactly as answer.txt within the zip, as otherwise the evaluation will fail.
 
@@ -129,11 +129,21 @@ ptHYAN3piG3YwOft       I9bzP8jnLlz9zpMi	      c3vVTLCzTAVzuapU       gkriPL4PNtc
 
 Please return the result following the order of query at [Query TXT](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/query_street_name.txt). It will be 2759 lines.
 
+## FAQ - Frequently Asked Questions
+
+#### Q1: Can we use the original University-1652 test set for training?
+**A1:** No, the University-1652 test set must not be used in any form for training. Please only use the official training set and the name-masked test set provided via our links.
+
+#### Q2: Can we use extra training datasets beyond the provided University-1652 training set?
+**A2:** Yes, extra training datasets are allowed in this competition. Participants may use additional data sources to improve performance, as long as no information from the name-masked test set is used in any way during training. For reference, [*VehicleNet*](https://www.zdzheng.xyz/files/TMM20.pdf) fuses 4 datasets for a similar retrieval competition. We encourage participants to disclose any external datasets and their usage details in the method description for transparency.
+
+
 ## Related Papers 
 - Wang, T., Zheng, Z., Sun, Y., Yan, C., Yang, Y., & Chua, T. S. (2024). [Multiple-environment Self-adaptive Network for Aerial-view Geo-localization](https://zdzheng.xyz/files/PR2024-Wang.pdf). Pattern Recognition, 152, 110363.
 - Zheng, Z., Wei, Y., & Yang, Y. (2020, October). [University-1652: A multi-view multi-source benchmark for drone-based geo-localization](https://zdzheng.xyz/files/ACMMM20.pdf). In Proceedings of the 28th ACM international conference on Multimedia (pp. 1395-1403).
 - Wang, C., Zheng, Z., Quan, R., Sun, Y., & Yang, Y. (2023). [Context-aware pretraining for efficient blind image decomposition](https://zdzheng.xyz/files/CVPR2023-Wang.pdf). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18186-18195).
 - Chu, M., Zheng, Z., Ji, W., & Chua, T. S. (2024). [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching](https://arxiv.org/abs/2311.12751). ECCV.
+- Zheng, Z., Ruan, T., Wei, Y., Yang, Y., & Mei, T. (2015). [VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification](https://www.zdzheng.xyz/files/TMM20.pdf). TMM.
 
 ## Organizing Team
 

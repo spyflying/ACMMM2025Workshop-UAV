@@ -143,7 +143,7 @@ Please return the result following the order of query at [Query TXT](https://git
 - Zheng, Z., Wei, Y., & Yang, Y. (2020, October). [University-1652: A multi-view multi-source benchmark for drone-based geo-localization](https://zdzheng.xyz/files/ACMMM20.pdf). In Proceedings of the 28th ACM international conference on Multimedia (pp. 1395-1403).
 - Wang, C., Zheng, Z., Quan, R., Sun, Y., & Yang, Y. (2023). [Context-aware pretraining for efficient blind image decomposition](https://zdzheng.xyz/files/CVPR2023-Wang.pdf). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18186-18195).
 - Chu, M., Zheng, Z., Ji, W., & Chua, T. S. (2024). [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching](https://arxiv.org/abs/2311.12751). ECCV.
-- Zheng, Z., Ruan, T., Wei, Y., Yang, Y., & Mei, T. (2015). [VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification](https://www.zdzheng.xyz/files/TMM20.pdf). TMM.
+- Zheng, Z., Ruan, T., Wei, Y., Yang, Y., & Mei, T. (2020). [VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification](https://www.zdzheng.xyz/files/TMM20.pdf). TMM.
 
 ## Organizing Team
 

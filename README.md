@@ -35,13 +35,25 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 * 11/3/2025 - Paper submission site is now available.
 * 18/3/2025 - CFP is released.
 
-## Workshop Schedule
+## Workshop Schedule (27/10/2025)
 
-**TBD**
+9:30~10:30am Invited Talk from Prof. Daniel-Andre Dücker
+
+10:30~11:30am Invited Talk from Prof. Ce Zhang
+
+11:30~11:45am Morning Break
+
+11:45~12:00pm Challenge 1st-place Winner
+
+12:00~12:15pm Challenge 2nd-place Winner
+
+12:15~12:30pm Challenge 3rd-place Winner
 
 ## Invited Speakers
 
-**TBD**
+| <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=hjyu7FEAAAAJ&citpid=6" width="160"> |<img src="https://research-information.bris.ac.uk/files-asset/376842125/Ce_Image.jpg?w=320&f=webp" width="160"> | 
+| :-: | :-: |
+|  [Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/), Technical University of Munich | [Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/), University of Bristol |  
 
 ## Important Dates
 

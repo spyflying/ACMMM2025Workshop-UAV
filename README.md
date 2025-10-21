@@ -39,9 +39,9 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 9:30~10:30am Invited Talk from Prof. Daniel-Andre Dücker
 
-10:30~11:30am Invited Talk from Prof. Ce Zhang
+10:30~10:45am Morning Break 
 
-11:30~11:45am Morning Break
+10:45~11:45am Invited Talk from Prof. Ce Zhang
 
 11:45~12:00pm Challenge 1st-place Winner
 
@@ -51,7 +51,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 ## Invited Speakers
 
-| <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=hjyu7FEAAAAJ&citpid=6" width="160"> |<img src="https://research-information.bris.ac.uk/files-asset/376842125/Ce_Image.jpg?w=320&f=webp" width="160"> | 
+| <img src="https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/picture/Daniel.jpeg" width="160"> |<img src="https://research-information.bris.ac.uk/files-asset/376842125/Ce_Image.jpg?w=320&f=webp" width="160"> | 
 | :-: | :-: |
 |  [Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/), Technical University of Munich | [Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/), University of Bristol |  
 

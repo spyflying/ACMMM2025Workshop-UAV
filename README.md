@@ -51,7 +51,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 ## Invited Speakers
 
-| <img src="https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/picture/Daniel.jpeg" width="160"> |<img src="https://research-information.bris.ac.uk/files-asset/376842125/Ce_Image.jpg?w=320&f=webp" width="160"> | 
+| <img src="https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/picture/Daniel.jpeg?raw=true" width="160"> |<img src="https://research-information.bris.ac.uk/files-asset/376842125/Ce_Image.jpg?w=320&f=webp" width="160"> | 
 | :-: | :-: |
 |  [Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/), Technical University of Munich | [Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/), University of Bristol |  
 

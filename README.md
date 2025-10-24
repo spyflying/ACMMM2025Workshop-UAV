@@ -35,6 +35,21 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 * 11/3/2025 - Paper submission site is now available.
 * 18/3/2025 - CFP is released.
 
+## Workshop Online Session (Zoom Link)
+
+**Topic:** ACM MM 2025 Workshop — *UAVs in Multimedia: Capturing the World from a New Perspective*  
+**Time:** Oct 27, 2025 · 09:00 AM Dublin
+
+**Join Zoom Meeting:**  
+[https://unibw.zoom-x.de/j/63172539503?pwd=G98Vu0qM8euvDn7PeHaaWPVvBEMRXY.1](https://unibw.zoom-x.de/j/63172539503?pwd=G98Vu0qM8euvDn7PeHaaWPVvBEMRXY.1)
+
+**Meeting ID:** 631 7253 9503  
+**Passcode:** 551860
+
+**Join Instructions:**  
+[https://unibw.zoom-x.de/meetings/63172539503/invitations?signature=-J0ktfdgXNt-NSPdkeIW6ZLp7-IfkXygLe6JK7sLQxY](https://unibw.zoom-x.de/meetings/63172539503/invitations?signature=-J0ktfdgXNt-NSPdkeIW6ZLp7-IfkXygLe6JK7sLQxY)
+
+
 ## Workshop Schedule (27/10/2025)
 
 9:30~10:30am Invited Talk from Prof. Daniel-Andre Dücker

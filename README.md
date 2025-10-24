@@ -35,7 +35,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 * 11/3/2025 - Paper submission site is now available.
 * 18/3/2025 - CFP is released.
 
-## Workshop Online Session (Zoom Link)
+## Workshop Online Session
 
 **Topic:** ACM MM 2025 Workshop — *UAVs in Multimedia: Capturing the World from a New Perspective*  
 **Time:** Oct 27, 2025 · 09:00 AM Dublin

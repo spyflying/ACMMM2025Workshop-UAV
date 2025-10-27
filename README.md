@@ -80,6 +80,8 @@ Bio: Dr. Daniel A. Dücker leads the Environmental Robotics Group at the Munich 
  
 Abstract: In this presentation, we will explore the challenges of Aerial Spatial Intelligence across three distinct levels: perception, understanding, and decision-making. I will discuss preliminary research efforts conducted by my group, spanning several key areas: from the multi-platform collaborative dataset University-1652 to the application of Large Vision-Language Models for robust performance under diverse weather conditions, as well as advancements in 3D scene understanding and language-guided navigation. This talk aims to provide valuable insights into these emerging topics.
 
+Bio: Zhedong Zheng is an Assistant Professor with the University of Macau. He received the Ph.D. degree from the University of Technology Sydney in 2021 and the B.S. degree from Fudan University in 2016. He was a postdoctoral research fellow at the School of Computing, National University of Singapore. He received the IEEE Circuits and Systems Society Outstanding Young Author Award of 2021. His research interests include AIGC, Data-centric AI, and Spatial Intelligence. He actively serves the academic community, acting as a Senior PC for IJCAI and AAAI, an Area Chair for ACM MM'24, ACM MM'25 and ICASSP'25, and the Publication Chair for ACM MM'25 and AVSS'25.
+
 ## Important Dates
 
 **Challenge**

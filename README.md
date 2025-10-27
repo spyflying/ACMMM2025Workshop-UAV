@@ -56,7 +56,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 10:30~10:45am Morning Break 
 
-10:45~11:45am Invited Talk from Prof. Ce Zhang
+10:45~11:45am Invited Talk from Prof. Zhedong Zheng
 
 11:45~12:00pm Challenge 1st-place Winner
 
@@ -66,9 +66,17 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 ## Invited Speakers
 
-| <img src="https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/picture/Daniel.jpeg?raw=true" width="160"> |<img src="https://research-information.bris.ac.uk/files-asset/376842125/Ce_Image.jpg?w=320&f=webp" width="160"> | 
+| <img src="https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/picture/Daniel.jpeg?raw=true" width="160"> |<img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> | 
 | :-: | :-: |
-|  [Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/), Technical University of Munich | [Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/), University of Bristol |  
+|  [Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/), Technical University of Munich | [Zhedong Zheng](https://zdzheng.xyz), University of Macau |  
+
+**Talk-1: Challenges of Unmanned Underwater Vehicles** ([Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/))
+ 
+Abstract: This work presents recent advances in localization for unmanned underwater vehicles. It explores how robust localization under harsh and confined conditions enables effective autonomous operation. Based on results from unmanned underwater vehicle (UUV) platforms, the research outlines shared challenges in sensing, real-time embedded navigation, and control. The research emphasizes localization methods that do not rely on external anchors and agile maneuvering architectures that exploit similarities between underwater and aerial robotics.
+
+**Talk-2: Aerial Spatial Intelligence: Perception, Understanding, and Decision Making** ([Zhedong Zheng](https://zdzheng.xyz))
+ 
+Abstract: In this presentation, we will explore the challenges of Aerial Spatial Intelligence across three distinct levels: perception, understanding, and decision-making. I will discuss preliminary research efforts conducted by my group, spanning several key areas: from the multi-platform collaborative dataset University-1652 to the application of Large Vision-Language Models for robust performance under diverse weather conditions, as well as advancements in 3D scene understanding and language-guided navigation. This talk aims to provide valuable insights into these emerging topics.
 
 ## Important Dates
 

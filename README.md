@@ -70,9 +70,11 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 | :-: | :-: |
 |  [Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/), Technical University of Munich | [Zhedong Zheng](https://zdzheng.xyz), University of Macau |  
 
-**Talk-1: Challenges of Unmanned Underwater Vehicles** ([Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/))
+**Talk-1: Underwater Robotics in the Age of Drones: Insights, Challenges, and Opportunities Beneath the Surface** ([Daniel-Andre Dücker](https://www.mirmi.tum.de/en/mirmi/people/duecker-daniel/))
  
-Abstract: This work presents recent advances in localization for unmanned underwater vehicles. It explores how robust localization under harsh and confined conditions enables effective autonomous operation. Based on results from unmanned underwater vehicle (UUV) platforms, the research outlines shared challenges in sensing, real-time embedded navigation, and control. The research emphasizes localization methods that do not rely on external anchors and agile maneuvering architectures that exploit similarities between underwater and aerial robotics.
+Abstract: What happens when we move autonomy from the sky into the sea? In this talk, we explore underwater robotics as a new perspective for autonomous sensing and perception, highlighting the unique challenges and opportunities of operating in GPS-denied, visually degraded environments. Drawing parallels to aerial systems, we discuss advances in localization, mapping, and environmental monitoring — and how lessons from beneath the surface can inspire the next generation of autonomous systems in the age of drones.
+
+Bio: Dr. Daniel A. Dücker leads the Environmental Robotics Group at the Munich Institute of Robotics and Machine Intelligence, Technical University of Munich. His work bridges underwater, surface, and aerial robotics to explore how autonomous systems can sense and protect natural environments. He previously conducted research stays at UC Berkeley and MIT, and his work has been recognized with the Distinct Dissertation Award and the IROS 2025 New Generation Rising Star Award.
 
 **Talk-2: Aerial Spatial Intelligence: Perception, Understanding, and Decision Making** ([Zhedong Zheng](https://zdzheng.xyz))
  

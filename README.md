@@ -28,8 +28,15 @@ author_profile: false
 
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
+[[Proceeding Workshop Papers]](https://dl.acm.org/doi/proceedings/10.1145/3728482)
+
+:sunglasses: [[Youtube]](https://youtu.be/P34VsFINRYM) 
+[[Bilibili]](https://www.bilibili.com/video/BV1yjysB9EZ5) :sunglasses:
+
 ## News
 
+* 4/11/2024 - Video is available at [[Youtube]](https://youtu.be/P34VsFINRYM) and [[Bilibili]](https://www.bilibili.com/video/BV1yjysB9EZ5) 
+* 4/11/2025 - Finally, we have accepted 13 papers. They are available at https://dl.acm.org/doi/proceedings/10.1145/3728482 
 * 9/3/2025 - Workshop homepage is now available.
 * 9/3/2025 - Challenge Open-website: ([https://codalab.lisn.upsaclay.fr/competitions/22073](https://codalab.lisn.upsaclay.fr/competitions/22073))
 * 11/3/2025 - Paper submission site is now available.
